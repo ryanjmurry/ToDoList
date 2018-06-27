@@ -1,0 +1,8 @@
+/Users/ryanmurry/Desktop/epicodus/C#/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.deps.json
+/Users/ryanmurry/Desktop/epicodus/C#/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.dll
+/Users/ryanmurry/Desktop/epicodus/C#/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.pdb
+/Users/ryanmurry/Desktop/epicodus/C#/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.csproj.CoreCompileInputs.cache
+/Users/ryanmurry/Desktop/epicodus/C#/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfoInputs.cache
+/Users/ryanmurry/Desktop/epicodus/C#/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
+/Users/ryanmurry/Desktop/epicodus/C#/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.dll
+/Users/ryanmurry/Desktop/epicodus/C#/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
